@@ -9,5 +9,6 @@ node_modules
 .settings
 selenium-client-jars/
 test/artifacts
-ssl/
+!ssl/
+ssl/*
 !ssl/server.key.enc
