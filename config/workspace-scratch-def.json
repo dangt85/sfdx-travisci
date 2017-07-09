@@ -1,10 +1,7 @@
 {
-  "Company": "wade.wegner Company",
-  "Country": "US",
-  "LastName": "wade.wegner",
-  "Email": "wade.wegner@xxx.com",
-  "Edition": "Developer",
-  "OrgPreferences" : {
-    "S1DesktopEnabled" : true
-  }
+    "orgName": "CwC",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
 }
